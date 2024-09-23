@@ -124,11 +124,11 @@ or, https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350f
 <!--START_SECTION:waka-->
 
 ```txt
-YAML                       5 hrs 18 mins   ███████████░░░░░░░░░░░░░░   43.81 %
-Docker                     4 hrs 43 mins   █████████▓░░░░░░░░░░░░░░░   38.87 %
-Other                      1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
-Bash                       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Markdown                   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+YAML                       48 mins         ██████████░░░░░░░░░░░░░░░   39.39 %
+Docker                     41 mins         ████████▒░░░░░░░░░░░░░░░░   33.53 %
+Other                      16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
+Bash                       9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+INI                        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
 ```
 
 <!--END_SECTION:waka-->
