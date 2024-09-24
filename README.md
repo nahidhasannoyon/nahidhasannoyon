@@ -124,11 +124,7 @@ or, https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350f
 <!--START_SECTION:waka-->
 
 ```txt
-YAML                       48 mins         ██████████░░░░░░░░░░░░░░░   39.39 %
-Docker                     41 mins         ████████▒░░░░░░░░░░░░░░░░   33.53 %
-Other                      16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
-Bash                       9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-INI                        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
