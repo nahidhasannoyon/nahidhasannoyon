@@ -124,7 +124,8 @@ or, https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350f
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart    1 hr 11 mins    ██████████████████░░░░░░░   72.19 %
+Other   27 mins         ███████░░░░░░░░░░░░░░░░░░   27.81 %
 ```
 
 <!--END_SECTION:waka-->
