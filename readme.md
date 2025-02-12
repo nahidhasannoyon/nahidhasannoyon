@@ -16,18 +16,27 @@ I enjoy working on projects that involve both **front-end UI/UX design** and **b
 
 ### 🛠️ My Tech Stack
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nahidhasannoyon&theme=dracula&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-
-![Flutter](https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B){height=30px width=90px} &nbsp; ![Dart](https://img.shields.io/badge/Dart-282C34?logo=dart&logoColor=0175C2){height=30px width=80px} &nbsp; ![GetX](https://img.shields.io/badge/GetX-282C34?logo=getx&logoColor=8B0000){height=30px width=80px} &nbsp; ![Firebase](https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28){height=30px width=90px} &nbsp; ![MySQL](https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=00f){height=30px width=90px} &nbsp; ![Git](https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032){height=30px width=60px} &nbsp; ![GitHub](https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717){height=30px width=90px} &nbsp; ![VS Code](https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=0078D7){height=30px width=90px} &nbsp; ![Postman](https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37){height=30px width=90px} &nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B) &nbsp; ![Dart](https://img.shields.io/badge/Dart-282C34?logo=dart&logoColor=0175C2) &nbsp; ![GetX](https://img.shields.io/badge/GetX-282C34?logo=getx&logoColor=8B0000) &nbsp; ![Firebase](https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28) &nbsp; ![MySQL](https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=00f) &nbsp; ![Git](https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032) &nbsp; ![GitHub](https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717) &nbsp; ![VS Code](https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=0078D7) &nbsp; ![Postman](https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37) &nbsp;
 
 ### 🚀 Featured Projects
 
 Here are some of my top projects that showcase my skills in **Flutter** development:
 
-- **[GrowBook](https://github.com/nahidhasannoyon/growbook)**
-  - A finance tracking app with budget management and real-time insights. [Submitted on CodeCanyon]
-- **[ePolli Multi-Vendor](https://github.com/nahidhasannoyon/epolli-multivendor)**
-  - Comprehensive multi-vendor app supporting users, sellers, and admins. Integrated for a seamless user experience. [Published on CodeCanyon]
+- **GrowBook**
+  - Led the UI development of GrowBook, a versatile finance app designed to track expenses, manage budgets, and offer financial insights.
+- **ePolli Multi-Vendor**
+  - Comprehensive multi-vendor app supporting users, sellers, and admins. Integrated for a seamless user experience.
+- **ekDeal**
+  - Developed an app focused on displaying discounts and coupons based on region, brand, and proximity to the user.
+  - Integrated features such as personalized offers, location-based notifications, and brand-specific promotions to enhance user engagement.
+- **ePolli Shohoz Khamari**
+  - Streamlined financial management with real-time transaction tracking.
+  - Integrated daily reminders, weather notifications, and map functionalities to enhance user convenience.
+  - Customizing the app for publication on **CodeCanyon**.
+- **ePolli**
+  - Implemented a categorized investment system, allowing users to explore and invest in various projects and products.
+  - Added basic e-commerce functionality for purchasing project-related products and receiving real-time updates on the current state of investments.
+  - Customizing the app for publication on **CodeCanyon**
 - **[Sada Payra](https://github.com/nahidhasannoyon/sada_payra)**
   - A transport management system with route planning, tracking, and secure bus access for university students. Enhanced student and staff convenience.
 
@@ -38,8 +47,6 @@ For a complete list of my projects, please visit my [GitHub Repositories](https:
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nahidhasannoyon&theme=gruvbox&layout=compact&custom_title=WakaTime%20Stats&langs_count=2&border_radius=10&v=2)
 
 ![Coding Activity over Last Year BLACK](https://wakatime.com/share/@NahidHasanNoyon/91257c58-ebf3-4159-b513-0e4073f94596.png)
-
-![Coding Activity over Last Year WHITE](https://wakatime.com/share/@NahidHasanNoyon/16537bc1-2b79-485b-b71d-f4d8a9fd9d81.png)
 
 ### 📈 GitHub Stats
 
