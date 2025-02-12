@@ -54,13 +54,15 @@ For a complete list of my projects, please visit my [GitHub Repositories](https:
 
 ![streak](https://streak-stats.demolab.com/?user=nahidhasannoyon&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nahidhasannoyon)](https://git.io/streak-stats)
+<!-- ![streak](https://streak-stats.demolab.com/?user=nahidhasannoyon) -->
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=nahidhasannoyon)](https://git.io/streak-stats) -->
 
 ### 🏆 GitHub Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=nahidhasannoyon&theme=dracula&title=Commit,Repositories,MultiLanguage,Experience,Followers)](https://github.com/nahidhasannoyon/github-profile-trophy)![More Trophies](https://github-trophies.vercel.app/?username=nahidhasannoyon&theme=dracula&title=LongTimeUser,Organizations)
 
-![Guest Count](https://badges.pufler.dev/visits/nahidhasannoyon/nahidhasannoyon?color=black&logo=github&style=flat-square)
+![Guest Count](https://badges.pufler.dev/visits/nahidhasannoyon/nahidhasannoyon?color=black&logo=github&style=flat) ![Guest Count](https://komarev.com/ghpvc/?username=nahidhasannoyon&style=flat)
 
 ### Competitive Programming
 
