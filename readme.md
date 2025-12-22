@@ -2,7 +2,7 @@
 
 ## 🚀 Flutter Developer | API, Database, and Secure Development Enthusiast
 
-With over **2+ years** of experience in mobile app development, I specialize in building user-friendly, efficient applications with **Flutter** and **Dart**. I have a strong background in **GetX**, **API integration**, **state management**, and creating seamless, responsive UIs.
+With over **3+ years** of experience in mobile app development, I specialize in building user-friendly, efficient applications with **Flutter** and **Dart**. I have a strong background in **GetX**, **API integration**, **state management**, and creating seamless, responsive UIs.
 
 ### About Me
 
@@ -22,18 +22,18 @@ I enjoy working on projects that involve both **front-end UI/UX design** and **b
 
 Here are some of my top projects that showcase my skills in **Flutter** development:
 
-- **GrowBook**
+- **GrowBook** at [ePolli Technologies](https://epolli.com.bd)
   - Led the UI development of GrowBook, a versatile finance app designed to track expenses, manage budgets, and offer financial insights.
-- **ePolli Multi-Vendor**
+- **ePolli Multi-Vendor** at [ePolli Technologies](https://epolli.com.bd)
   - Comprehensive multi-vendor app supporting users, sellers, and admins. Integrated for a seamless user experience.
-- **ekDeal**
+- **ekDeal** at [ePolli Technologies](https://epolli.com.bd)
   - Developed an app focused on displaying discounts and coupons based on region, brand, and proximity to the user.
   - Integrated features such as personalized offers, location-based notifications, and brand-specific promotions to enhance user engagement.
-- **ePolli Shohoz Khamari**
+- **ePolli Shohoz Khamari** at [ePolli Technologies](https://epolli.com.bd)
   - Streamlined financial management with real-time transaction tracking.
   - Integrated daily reminders, weather notifications, and map functionalities to enhance user convenience.
   - Customizing the app for publication on **CodeCanyon**.
-- **ePolli**
+- **ePolli** at [ePolli Technologies](https://epolli.com.bd)
   - Implemented a categorized investment system, allowing users to explore and invest in various projects and products.
   - Added basic e-commerce functionality for purchasing project-related products and receiving real-time updates on the current state of investments.
   - Customizing the app for publication on **CodeCanyon**
@@ -52,7 +52,7 @@ For a complete list of my projects, please visit my [GitHub Repositories](https:
 
 ![stats](https://github-readme-stats.vercel.app/api?username=nahidhasannoyon&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false)
 
-![streak](https://streak-stats.demolab.com/?user=nahidhasannoyon&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
+<!-- ![streak](https://streak-stats.demolab.com/?user=nahidhasannoyon&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9) -->
 
 <!-- ![streak](https://streak-stats.demolab.com/?user=nahidhasannoyon) -->
 
@@ -62,15 +62,16 @@ For a complete list of my projects, please visit my [GitHub Repositories](https:
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=nahidhasannoyon&theme=dracula&title=Commit,Repositories,MultiLanguage,Experience,Followers)](https://github.com/nahidhasannoyon/github-profile-trophy)![More Trophies](https://github-trophies.vercel.app/?username=nahidhasannoyon&theme=dracula&title=LongTimeUser,Organizations)
 
-![Guest Count](https://badges.pufler.dev/visits/nahidhasannoyon/nahidhasannoyon?color=black&logo=github&style=flat) ![Guest Count](https://komarev.com/ghpvc/?username=nahidhasannoyon&style=flat)
+<!-- ![Guest Count](https://badges.pufler.dev/visits/nahidhasannoyon/nahidhasannoyon?color=black&logo=github&style=flat) -->
+![Guest Count](https://komarev.com/ghpvc/?username=nahidhasannoyon&style=flat)
 
 ### Competitive Programming
 
 #### Solved more than 500 problems on different online judges
 
-<a href="https://www.stopstalk.com/user/profile/AmiNahid">
+<!-- <a href="https://www.stopstalk.com/user/profile/AmiNahid">
   <img src="https://www.stopstalk.com/stopstalk/static/images/StopStalk.png" alt="Alt Text" width="90" height="30">
-</a> &nbsp;
+</a> &nbsp; -->
 
 <a href="https://codeforces.com/profile/aminahid">
   <img src="https://codeforces.org/s/96139/images/codeforces-sponsored-by-ton.png" alt="Alt Text" width="90" height="30">
@@ -123,3 +124,4 @@ For a complete list of my projects, please visit my [GitHub Repositories](https:
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+
