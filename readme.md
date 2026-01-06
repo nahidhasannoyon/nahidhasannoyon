@@ -143,6 +143,12 @@ For a complete list of my projects, please visit my [GitHub Repositories](https:
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=nahidhasannoyon)](https://git.io/streak-stats) -->
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nahidhasannoyon?cardType=github&theme=dracula&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=nahidhasannoyon&show_icons=true&theme=transparent)
+
+## [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=nahidhasannoyon)](https://github.com/nahidhasannoyon)
+
 ---
 
 ### 🏆 GitHub Trophies
