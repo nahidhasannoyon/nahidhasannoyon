@@ -2,7 +2,7 @@
 
 ## 🚀 Software Engineer (Flutter) | Cross-Platform & Secure App Development
 
-Passionate and detail-oriented **Flutter Developer** with **3+ years** of experience building high-performance, cross-platform mobile applications for Android, iOS, and web. Skilled in **GetX**, **Clean Architecture**, **REST API integration**, and **responsive UI design**. Shipped **4+** scalable, production-ready apps globally. Strong believer in writing clean, maintainable, and testable code that aligns with business goals.
+Passionate and detail-oriented **Flutter Developer** with **3.5+ years** of experience building high-performance, cross-platform mobile applications for Android, iOS, and web. Skilled in **GetX**, **Clean Architecture**, **REST API integration**, and **responsive UI design**. Shipped **5+** scalable, production-ready apps globally. Strong believer in writing clean, maintainable, and testable code that aligns with business goals.
 
 ### About Me
 
